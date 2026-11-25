@@ -1,0 +1,9 @@
+starlette>=0.37
+uvicorn>=0.29
+pydantic>=2.6
+python-multipart>=0.0.9
+pypdf>=4.0
+
+# Opcional: OCR local de imagens (requer também o programa Tesseract instalado)
+# pytesseract>=0.3.10
+# Pillow>=10.0
